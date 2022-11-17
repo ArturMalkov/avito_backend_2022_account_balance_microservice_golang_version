@@ -13,3 +13,5 @@ Technology Stack:
 - ORM: Gorm
 
 - Database: PostgreSQL
+
+**P.S. Work still in progress - please see my finalized solution written in Python**
