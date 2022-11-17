@@ -1,4 +1,4 @@
-Avito Backend 2022 Account Balance Microservice Project - Golang version
+**Avito Backend 2022 Account Balance Microservice Project - Golang version**
 
 Link to the task - https://github.com/avito-tech/internship_backend_2022
 
@@ -6,10 +6,10 @@ Link to the task - https://github.com/avito-tech/internship_backend_2022
 
 Technology Stack:
 
-Programming Language: Golang (1.19)
+- Programming Language: Golang (1.19)
 
-Web-framework: Gin
+- Web-framework: Gin
 
-ORM: Gorm
+- ORM: Gorm
 
-Database: PostgreSQL
+- Database: PostgreSQL
