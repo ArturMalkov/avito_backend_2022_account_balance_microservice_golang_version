@@ -14,4 +14,4 @@ Technology Stack:
 
 - Database: PostgreSQL
 
-**P.S. Work still in progress - please see my finalized solution written in Python**
+**P.S. Work still in progress (work was mainly done on trains from Rome to Florence, from Florence to Venice and from Venice to Milan :sweat_smile:) - please see my finalized solution written in Python**
